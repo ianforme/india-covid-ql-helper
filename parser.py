@@ -10,6 +10,6 @@ data = pd.DataFrame(r.json()['data'])
 
 data.to_csv('india_testing_daily.csv', index=False)
 
+cmd.run(f'git commit india_testing_daily.csv -m "update"')
+cmd.run(f'git push')
 
-
-cmd.run(f"git commit ")
