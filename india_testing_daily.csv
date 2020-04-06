@@ -1,21 +1,22 @@
 timestamp,totalSamplesTested,totalIndividualsTested,totalPositiveCases,source
-2020-03-12T18:30:00.000Z,6500,5900,78,Press_Release_ICMR_13March2020.pdf
-2020-03-18T12:30:00.000Z,13125,12235,150,ICMR_website_update_18March_6PM_IST.pdf
-2020-03-19T04:30:00.000Z,13316,12426,168,ICMR_website_update_19March_10AM_IST_V2.pdf
-2020-03-19T12:30:00.000Z,14175,13285,182,ICMR_website_update_19March_6PM_IST.pdf
-2020-03-20T04:30:00.000Z,14376,13486,206,ICMR_website_update_20March_10AM_IST.pdf
-2020-03-20T12:30:00.000Z,15404,14514,236,ICMR_website_update_20March_6PM_IST.pdf
-2020-03-21T04:30:00.000Z,15701,14811,271,ICMR_website_update_21March_10AM_IST.pdf
-2020-03-21T12:30:00.000Z,16911,16021,315,ICMR_website_update_21March_6PM_IST.pdf
-2020-03-22T04:30:00.000Z,16999,16109,341,ICMR_website_update_22March_10AM_IST.pdf
-2020-03-22T12:30:00.000Z,18127,17237,396,ICMR_website_update_22March_6PM_IST.pdf
-2020-03-23T04:30:00.000Z,18383,17493,415,ICMR_website_update_23March_10AM_IST.pdf
-2020-03-23T14:30:00.000Z,20707,19817,471,ICMR_website_update_23March_8PM_IST.pdf
-2020-03-24T04:30:00.000Z,20864,19974,482,ICMR_website_update_24March_10AM_IST.pdf
-2020-03-24T14:30:00.000Z,22694,21804,536,ICMR_website_update_24March_8PM_IST.pdf
-2020-03-25T04:30:00.000Z,22928,22038,539,ICMR_website_update_25March_10AM_IST.pdf
-2020-03-27T03:30:00.000Z,27688,26798,691,https://icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_27March_9AM_IST.pdf
-2020-03-30T14:30:00.000Z,38442,37000,1334,https://www.youtube.com/watch?v=yvJY0LuM8kQ&feature=youtu.be
-2020-03-31T11:30:00.000Z,42788,41000,1533,MOH announcement
-2020-04-01T11:30:00.000Z,47951,46000,1637,MOH announcement
-2020-04-03T15:30:00.000Z,65000,69,2635,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_03April_9PM_IST.pdf
+2020-03-12T18:30:00.000Z,6500,5900.0,78,Press_Release_ICMR_13March2020.pdf
+2020-03-18T12:30:00.000Z,13125,12235.0,150,ICMR_website_update_18March_6PM_IST.pdf
+2020-03-19T04:30:00.000Z,13316,12426.0,168,ICMR_website_update_19March_10AM_IST_V2.pdf
+2020-03-19T12:30:00.000Z,14175,13285.0,182,ICMR_website_update_19March_6PM_IST.pdf
+2020-03-20T04:30:00.000Z,14376,13486.0,206,ICMR_website_update_20March_10AM_IST.pdf
+2020-03-20T12:30:00.000Z,15404,14514.0,236,ICMR_website_update_20March_6PM_IST.pdf
+2020-03-21T04:30:00.000Z,15701,14811.0,271,ICMR_website_update_21March_10AM_IST.pdf
+2020-03-21T12:30:00.000Z,16911,16021.0,315,ICMR_website_update_21March_6PM_IST.pdf
+2020-03-22T04:30:00.000Z,16999,16109.0,341,ICMR_website_update_22March_10AM_IST.pdf
+2020-03-22T12:30:00.000Z,18127,17237.0,396,ICMR_website_update_22March_6PM_IST.pdf
+2020-03-23T04:30:00.000Z,18383,17493.0,415,ICMR_website_update_23March_10AM_IST.pdf
+2020-03-23T14:30:00.000Z,20707,19817.0,471,ICMR_website_update_23March_8PM_IST.pdf
+2020-03-24T04:30:00.000Z,20864,19974.0,482,ICMR_website_update_24March_10AM_IST.pdf
+2020-03-24T14:30:00.000Z,22694,21804.0,536,ICMR_website_update_24March_8PM_IST.pdf
+2020-03-25T04:30:00.000Z,22928,22038.0,539,ICMR_website_update_25March_10AM_IST.pdf
+2020-03-27T03:30:00.000Z,27688,26798.0,691,https://icmr.nic.in/sites/default/files/whats_new/ICMR_website_update_27March_9AM_IST.pdf
+2020-03-30T14:30:00.000Z,38442,37000.0,1334,https://www.youtube.com/watch?v=yvJY0LuM8kQ&feature=youtu.be
+2020-03-31T11:30:00.000Z,42788,,1533,MOH announcement
+2020-04-01T11:30:00.000Z,47951,,1637,MOH announcement
+2020-04-03T15:30:00.000Z,69245,,2635,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_03April_9PM_IST.pdf
+2020-04-04T15:30:00.000Z,79950,,3313,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_04April_9PM_IST.pdf
