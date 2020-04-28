@@ -45,4 +45,6 @@ timestamp,totalSamplesTested,totalIndividualsTested,totalPositiveCases,source
 2020-04-22T15:30:00.000Z,,,,
 2020-04-23T15:30:00.000Z,500542.0,485172.0,21797.0,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_23Apr2020_9AM_IST.pdf
 2020-04-24T15:30:00.000Z,541789.0,525667.0,23502.0,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_24Apr2020_9AM_IST.pdf
-2020-04-25T03:30:00.000Z,579957.0,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf
+2020-04-25T15:30:00.000Z,579957.0,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf
+2020-04-26T15:30:00.000Z,625309.0,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_26Apr2020_9AM_IST.pdf
+2020-04-27T15:30:00.000Z,665819.0,,,https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_27Apr2020_9AM_IST.pdf
