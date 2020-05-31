@@ -16,7 +16,6 @@ timestamp,totalSamplesTested,totalIndividualsTested,totalPositiveCases,source
 2020-03-25T04:30:00.000Z,22928.0,22038.0,539.0,ICMR_website_update_25March_10AM_IST.pdf
 2020-03-25T14:30:00.000Z,25144.0,24254.0,581.0,ICMR_website_update_25March_8PM_IST.pdf
 2020-03-26T04:30:00.000Z,,,,
-2020-03-26T12:30:00.000Z,,,,
 2020-03-27T03:30:00.000Z,27688.0,26798.0,691.0,ICMR_website_update_27March_9AM_IST.pdf
 2020-03-29T18:30:00.000Z,38442.0,,,MoH Press conference with Dr. Raman G
 2020-03-30T18:30:00.000Z,42788.0,,,MoH Press conference with Dr. Raman G
@@ -80,3 +79,4 @@ timestamp,totalSamplesTested,totalIndividualsTested,totalPositiveCases,source
 2020-05-27T03:30:00.000Z,3242160.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/177
 2020-05-28T03:30:00.000Z,3362136.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/194
 2020-05-29T03:30:00.000Z,3483838.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/211
+2020-05-30T03:30:00.000Z,3611599.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/228
